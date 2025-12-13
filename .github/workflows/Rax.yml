@@ -3,7 +3,7 @@
 # Optimized by ChatGPT – Focus on build speed & stability
 #
 
-name: RAX3000M
+name: RAX
 
 on:
   repository_dispatch:
